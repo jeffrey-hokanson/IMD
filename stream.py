@@ -13,7 +13,7 @@ Usage:
 
 Requirements:
 imd.py
-clint, matplotlib, numpy
+matplotlib, numpy
 
 """
 
